@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Detalles extra sobre las funcionalidades.
+=======
+Contenido que causará un conflicto.
+>>>>>>> main
